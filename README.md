@@ -8,7 +8,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [React Icons](https://react-icons.github.io/react-icons/)
 - [React Router Dom](https://v5.reactrouter.com/web/guides/quick-start)
 - [styled-components](https://styled-components.com/)
-- [TypeScript](https://www.typescriptlang.org/)
 
 ## 🚀 Como executar
 
