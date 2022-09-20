@@ -14,7 +14,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Clone o projeto e acesse a pasta do mesmo.
 
 ```bash
-$ git clone https://github.com/gabrielgws/bhut-cars
+$ git clone https://github.com/gabrielgws/bhut-cars.git
 $ cd bhut-cars
 ```
 
