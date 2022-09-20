@@ -4,6 +4,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [React](https://reactjs.org)
 - [TypeScript](https://www.typescriptlang.org/)
+- [React Helmet](https://github.com/nfl/react-helmet)
+- [React Icons](https://react-icons.github.io/react-icons/)
+- [React Router Dom](https://v5.reactrouter.com/web/guides/quick-start)
+- [styled-components](https://styled-components.com/)
+- [TypeScript](https://www.typescriptlang.org/)
 
 ## 🚀 Como executar
 
@@ -24,7 +29,7 @@ $ yarn start
 ```
 O app estará disponível no seu browser pelo endereço http://localhost:3000.
 
-Lembrando que será necessário criar .env contendo uma chave REACT_APP_API_BASE_URL=http://api-test.bhut.com.br:3000/api/.
+Lembrando que será necessário criar uma variável de ambiente contendo: REACT_APP_API_BASE_URL=http://api-test.bhut.com.br:3000/api/.
 
 ## 💻 Projeto
 
